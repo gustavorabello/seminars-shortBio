@@ -1,0 +1,9 @@
+.DS*
+*swp
+*.aux
+*.bbl
+*.blg
+*.log
+*.spl
+*.dvi
+main.pdf
